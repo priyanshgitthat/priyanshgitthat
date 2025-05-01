@@ -79,7 +79,7 @@ When I’m not debugging, I’m dreaming up new ways to blend **computer vision*
 - My first “Hello World” felt like landing on Mars. 🚀
 - I once spent 3 hours debugging a missing comma. True story.
 - Chai is my coding fuel; memes are my breaks. 😄
-- Inspired by my mentor, **Mr. Arpit Dubey**, who made computer vision feel like magic!
+
 
 ---
 
