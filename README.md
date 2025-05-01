@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</p>
 
 
 <h1 align="center">👋 Hey, I’m Priyansh Verma! 🚀</h1>
+
 <p align="center"><em>Self-taught coder | MCA Student @ CSJMU | Turning coffee into code & chaos into solutions ☕💻</em></p>
 
 <p align="center">
@@ -12,6 +16,9 @@
 ---
 
 ### 🌟 About Me: The Code & The Chaos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FF5733&center=true&vCenter=true&width=500&lines=Self-taught+coder+building+epic+projects!" alt="Typing SVG" />
+</p>
 I’m a **passionate MCA student** from **CSJMU, Kanpur**, who stumbled into coding and fell in love with it. No computer science degree? No problem! I taught myself to code through late-night YouTube tutorials, Stack Overflow rabbit holes, and a ton of trial-and-error. Now, I’m building projects that solve real problems—like automating hostel attendance with **facial recognition** or crafting sleek web apps that make life easier.  
 
 When I’m not debugging, I’m dreaming up new ways to blend **computer vision**, **AI**, and **web dev** to create something *epic*. Oh, and I’m fueled by chai, memes, and the thrill of seeing “Code passed all tests”! 😎
@@ -20,19 +27,22 @@ When I’m not debugging, I’m dreaming up new ways to blend **computer vision*
 
 ### 🛠️ What I’m Building
 - 🔍 **Computer Vision Magic**: Projects like my [Hostel Attendance System](https://github.com/priyanshgitthat/hostel-attendance-using-face-recognition) use Python, OpenCV, and face_recognition to automate attendance with IN/OUT tracking. Proxy attendance? Not on my watch!
-- 🌐 **Web Dev Wonders**: From a [Weather App](https://github.com/priyanshgitthat/weather-app) to a To-Do List, I’m crafting user-friendly interfaces with HTML, CSS, and JavaScript.
+- 🌐 **Web Dev Wonders**: From a [QUIZZ Web App](https://github.com/priyanshgitthat/Quizz-Web-App) to a [To-Do List](https://github.com/priyanshgitthat/to-do-list), I’m crafting user-friendly interfaces with HTML, CSS, and JavaScript.
 - 🤖 **AI Experiments**: Diving into Mediapipe and ML to explore gesture control and drowsiness detection. Stay tuned for more!
 - 📱 **Future Goals**: I’m diving deep into **web development**, mastering **Flask** and **Django** to build robust backends, while also exploring **Flutter** apps and cloud-integrated systems with **Firebase**. Watch this space for some game-changing projects!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshgitthat&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshgitthat&layout=compact&theme=dracula" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshgitthat&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshgitthat&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshgitthat&theme=dracula" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-### 💡 My Tech Toolbox
+### 💡 My Tech Toolbox 
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
@@ -54,6 +64,7 @@ When I’m not debugging, I’m dreaming up new ways to blend **computer vision*
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="Computer Vision">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
 </p>
+
 ---
 
 ### 🎯 My Superpowers
@@ -81,24 +92,30 @@ Got a cool project idea or just wanna chat about code, AI, or memes? Hit me up!
 
 <p align="center">
   <a href="https://github.com/priyanshgitthat?tab=repositories"><img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
+  <br>
+  <img src="https://img.shields.io/github/followers/priyanshgitthat?label=Follow&style=social" alt="GitHub Followers"/>
 </p>
 
 ---
 
 ### 🔥 Featured Projects
 - **[Hostel Attendance System](https://github.com/priyanshgitthat/hostel-attendance-using-face-recognition)**: Face recognition to automate hostel attendance with IN/OUT tracking. Built with Python, OpenCV, and Tkinter.  
-- **[Weather App](https://github.com/priyanshgitthat/weather-app)**: A sleek app to check weather updates, powered by HTML, CSS, and JS.  
+- **[QUIZZ Web App](https://github.com/priyanshgitthat/Quizz-Web-App)**: Interactive quiz platform with real-time scoring, powered by HTML, CSS, JS, and Bootstrap.  
 - **[To-Do List](https://github.com/priyanshgitthat/to-do-list)**: Organize tasks with a clean, responsive interface.  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshgitthat&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshgitthat&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🙌 Thanks for Visiting!
+### 🙌 Thanks for Visiting! 
+
+
 If you liked what you saw, give a ⭐ to my repos or drop a message. Let’s build something awesome together! 😄
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshgitthat.priyanshgitthat" alt="Visitor Badge"/>
 </p>
+
+
